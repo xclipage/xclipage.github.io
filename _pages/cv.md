@@ -22,7 +22,7 @@ Work experience
   * ECE 2040, ECE 3025 and ECE 3741
 
 * Fall 2021: Graduate Research Assistant
-  * Github University
+  * Georgia Institute of Technology
   * Supervisor: Professor Madhavan Swaminathan
   
 Skills
