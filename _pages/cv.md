@@ -22,7 +22,7 @@ Work experience
   * ECE 2040, ECE 3025 and ECE 3741
 
 * Fall 2021: Graduate Research Assistant
-  * Georgia Institute of Technology
+  * Georgia Tech
   * Supervisor: Professor Madhavan Swaminathan
   
 Skills
