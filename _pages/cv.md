@@ -33,12 +33,3 @@ Skills
 * Working Software: MS Office (Proficient), Origin (Proficient), Photoshop (Intermediate).
 * Languages: Mandarin (Native), Jin Dialect (Native), English (Proficient), Cantonese (Intermediate), Russian (Primary), Spanish (Primary).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-    
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
